@@ -1,0 +1,287 @@
+Dependencies for Project 'lks071_project', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6140001::V6.14.1::ARMCLANG
+F (.\lks32mc07x_periph_driver\source\lks32mc07x_gpio.c)(0x6900F6DC)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ./Include -I ./lks32mc07x_periph_driver/include-I./RTE/_Target_1-IC:/Users/ASUS/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/ASUS/AppData/Local/Arm/Packs/Linko/LKS07x/1.2.0/Device/Include-D__UVISION_VERSION="532" -D_RTE_ -DLKS32MC071C8T8 -D_RTE_-o ./objects/lks32mc07x_gpio.o -MD)
+I (lks32mc07x_periph_driver\include\lks32mc07x_lib.h)(0x6926B580)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\lks32mc07x.h)(0x68E37F1C)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\basic.h)(0x68D8AFF4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\ctype.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x5F51128E)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CC2EC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CC318)
+I (lks32mc07x_periph_driver\include\lks32mc07x_user_manual.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_adc.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_cmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_clu.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sys.h)(0x69265F42)
+I (lks32mc07x_periph_driver\include\lks32mc07x_crc.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_can.h)(0x695A9CE2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dma.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dac.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dsp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_exti.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_gpio.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_flash.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_hall.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_i2c.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_mcpwm.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_nvr.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_opa.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_qep.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sif.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_spi.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tim.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_uart.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_wake.h)(0x6900F6DC)
+F (.\lks32mc07x_periph_driver\source\lks32mc07x_sys.c)(0x695A9CE2)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ./Include -I ./lks32mc07x_periph_driver/include-I./RTE/_Target_1-IC:/Users/ASUS/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/ASUS/AppData/Local/Arm/Packs/Linko/LKS07x/1.2.0/Device/Include-D__UVISION_VERSION="532" -D_RTE_ -DLKS32MC071C8T8 -D_RTE_-o ./objects/lks32mc07x_sys.o -MD)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sys.h)(0x69265F42)
+I (lks32mc07x_periph_driver\include\lks32mc07x_lib.h)(0x6926B580)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\lks32mc07x.h)(0x68E37F1C)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\basic.h)(0x68D8AFF4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\ctype.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x5F51128E)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CC2EC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CC318)
+I (lks32mc07x_periph_driver\include\lks32mc07x_user_manual.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_adc.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_cmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_clu.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_crc.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_can.h)(0x695A9CE2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dma.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dac.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dsp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_exti.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_gpio.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_flash.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_hall.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_i2c.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_mcpwm.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_nvr.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_opa.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_qep.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sif.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_spi.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tim.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_uart.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_wake.h)(0x6900F6DC)
+F (.\lks32mc07x_periph_driver\source\lks32mc07x_nvr.lib)(0x6A736C5A)()
+F (..\..\LKS071_GPIO_Test\lks32mc07x_periph_driver\source\lks32mc07x_tim.c)(0x6926B580)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ./Include -I ./lks32mc07x_periph_driver/include-I./RTE/_Target_1-IC:/Users/ASUS/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/ASUS/AppData/Local/Arm/Packs/Linko/LKS07x/1.2.0/Device/Include-D__UVISION_VERSION="532" -D_RTE_ -DLKS32MC071C8T8 -D_RTE_-o ./objects/lks32mc07x_tim.o -MD)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tim.h)(0x6900F6DC)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\lks32mc07x.h)(0x68E37F1C)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\basic.h)(0x68D8AFF4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\ctype.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x5F51128E)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CC2EC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CC318)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sys.h)(0x69265F42)
+I (lks32mc07x_periph_driver\include\lks32mc07x_lib.h)(0x6926B580)
+I (lks32mc07x_periph_driver\include\lks32mc07x_user_manual.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_adc.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_cmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_clu.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_crc.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_can.h)(0x695A9CE2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dma.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dac.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dsp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_exti.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_gpio.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_flash.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_hall.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_i2c.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_mcpwm.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_nvr.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_opa.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_qep.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sif.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_spi.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_uart.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_wake.h)(0x6900F6DC)
+F (..\..\LKS071_GPIO_Test\lks32mc07x_periph_driver\source\lks32mc07x_uart.c)(0x6900F6DC)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ./Include -I ./lks32mc07x_periph_driver/include-I./RTE/_Target_1-IC:/Users/ASUS/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/ASUS/AppData/Local/Arm/Packs/Linko/LKS07x/1.2.0/Device/Include-D__UVISION_VERSION="532" -D_RTE_ -DLKS32MC071C8T8 -D_RTE_-o ./objects/lks32mc07x_uart.o -MD)
+I (lks32mc07x_periph_driver\include\lks32mc07x_lib.h)(0x6926B580)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\lks32mc07x.h)(0x68E37F1C)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\basic.h)(0x68D8AFF4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\ctype.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x5F51128E)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CC2EC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CC318)
+I (lks32mc07x_periph_driver\include\lks32mc07x_user_manual.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_adc.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_cmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_clu.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sys.h)(0x69265F42)
+I (lks32mc07x_periph_driver\include\lks32mc07x_crc.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_can.h)(0x695A9CE2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dma.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dac.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dsp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_exti.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_gpio.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_flash.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_hall.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_i2c.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_mcpwm.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_nvr.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_opa.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_qep.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sif.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_spi.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tim.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_uart.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_wake.h)(0x6900F6DC)
+F (.\Kernel_Source\main.c)(0x6AEF0F81)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ./Include -I ./lks32mc07x_periph_driver/include-I./RTE/_Target_1-IC:/Users/ASUS/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/ASUS/AppData/Local/Arm/Packs/Linko/LKS07x/1.2.0/Device/Include-D__UVISION_VERSION="532" -D_RTE_ -DLKS32MC071C8T8 -D_RTE_-o ./objects/main.o -MD)
+I (lks32mc07x_periph_driver\include\lks32mc07x_lib.h)(0x6926B580)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\lks32mc07x.h)(0x68E37F1C)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\basic.h)(0x68D8AFF4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\ctype.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x5F51128E)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CC2EC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CC318)
+I (lks32mc07x_periph_driver\include\lks32mc07x_user_manual.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_adc.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_cmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_clu.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sys.h)(0x69265F42)
+I (lks32mc07x_periph_driver\include\lks32mc07x_crc.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_can.h)(0x695A9CE2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dma.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dac.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dsp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_exti.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_gpio.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_flash.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_hall.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_i2c.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_mcpwm.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_nvr.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_opa.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_qep.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sif.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_spi.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tim.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_uart.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_wake.h)(0x6900F6DC)
+I (Include\hardware_init.h)(0x67B36B84)
+F (.\AppFunction\hardware_init.c)(0x67B36B84)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ./Include -I ./lks32mc07x_periph_driver/include-I./RTE/_Target_1-IC:/Users/ASUS/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/ASUS/AppData/Local/Arm/Packs/Linko/LKS07x/1.2.0/Device/Include-D__UVISION_VERSION="532" -D_RTE_ -DLKS32MC071C8T8 -D_RTE_-o ./objects/hardware_init.o -MD)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\basic.h)(0x68D8AFF4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\ctype.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x5F51128E)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sys.h)(0x69265F42)
+I (lks32mc07x_periph_driver\include\lks32mc07x_lib.h)(0x6926B580)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\lks32mc07x.h)(0x68E37F1C)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CC2EC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CC318)
+I (lks32mc07x_periph_driver\include\lks32mc07x_user_manual.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_adc.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_cmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_clu.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_crc.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_can.h)(0x695A9CE2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dma.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dac.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dsp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_exti.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_gpio.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_flash.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_hall.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_i2c.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_mcpwm.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_nvr.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_opa.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_qep.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sif.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_spi.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tim.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_uart.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_wake.h)(0x6900F6DC)
+I (Include\hardware_init.h)(0x67B36B84)
+F (.\AppFunction\interrupt.c)(0x6AEF1008)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-3 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ./Include -I ./lks32mc07x_periph_driver/include-I./RTE/_Target_1-IC:/Users/ASUS/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/ASUS/AppData/Local/Arm/Packs/Linko/LKS07x/1.2.0/Device/Include-D__UVISION_VERSION="532" -D_RTE_ -DLKS32MC071C8T8 -D_RTE_-o ./objects/interrupt.o -MD)
+I (lks32mc07x_periph_driver\include\lks32mc07x_lib.h)(0x6926B580)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\lks32mc07x.h)(0x68E37F1C)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\Linko\LKS07x\1.2.0\Device\Include\basic.h)(0x68D8AFF4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\ctype.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5F51128E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x5F51128E)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\ASUS\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h)(0x5E0CC2EC)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x5E0CC318)
+I (lks32mc07x_periph_driver\include\lks32mc07x_user_manual.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_adc.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_cmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_clu.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sys.h)(0x69265F42)
+I (lks32mc07x_periph_driver\include\lks32mc07x_crc.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_can.h)(0x695A9CE2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dma.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dac.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_dsp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_exti.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_gpio.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_flash.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_hall.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_i2c.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_mcpwm.h)(0x6A719DF2)
+I (lks32mc07x_periph_driver\include\lks32mc07x_nvr.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_opa.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_qep.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_sif.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_spi.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tim.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_tmp.h)(0x68DABB54)
+I (lks32mc07x_periph_driver\include\lks32mc07x_uart.h)(0x6900F6DC)
+I (lks32mc07x_periph_driver\include\lks32mc07x_wake.h)(0x6900F6DC)
+I (Include\hardware_init.h)(0x67B36B84)
+F (RTE\Device\LKS32MC071C8T8\startup_lks32mc07x.s)(0x68E37F1E)(--target=arm-arm-none-eabi -mcpu=cortex-m0 -masm=auto -c-gdwarf-3-I./RTE/_Target_1-IC:/Users/ASUS/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include-IC:/Users/ASUS/AppData/Local/Arm/Packs/Linko/LKS07x/1.2.0/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 532" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"LKS32MC071C8T8 SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_lks32mc07x.o)

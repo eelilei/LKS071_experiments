@@ -1,0 +1,12 @@
+--cpu Cortex-M0
+".\objects\lks32mc07x_gpio.o"
+".\objects\lks32mc07x_sys.o"
+".\lks32mc07x_periph_driver\source\lks32mc07x_nvr.lib"
+".\objects\main.o"
+".\objects\hardware_init.o"
+".\objects\interrupt.o"
+".\objects\startup_lks32mc07x.o"
+--strict --scatter ".\Objects\lks071_project.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\lks071_project.map" -o .\Objects\lks071_project.axf
